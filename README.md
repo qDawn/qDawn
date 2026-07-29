@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ling 👋
+# Noot Noot, I'm Ling 👋
 
 CS student at the University of Warwick, building full-stack products and exploring software engineering.
 
