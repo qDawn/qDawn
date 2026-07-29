@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**qDawn/qDawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ling 👋
 
-Here are some ideas to get you started:
+CS student at the University of Warwick, building full-stack products and exploring software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=qDawn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=10B981&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qDawn&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" />
+
+<br>
+
+<a href="https://linkedin.com/in/ling-guo-swe">LinkedIn</a>
+
+</div>
