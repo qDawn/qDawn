@@ -4,7 +4,7 @@
 
 CS student at the University of Warwick, building full-stack products and exploring software engineering.
 
-Trying to live life to the fullest 🔥
+Trying to live life to the fullest 🔥 
 
 
 <br>
