@@ -9,9 +9,7 @@ Trying to live life to the fullest 🔥
 
 <br>
 
-<img src="https://ghstats.dev/api/card?username=qdawn&theme=midnight" alt="GitHub Stats Card" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=qDawn&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" />
-
+<div align="center"> <table> <tr> <td width="50%" align="center"> <img src="https://github-stats-extended.vercel.app/api/?username=qDawn&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9&icon_color=10B981" alt="GitHub Stats" width="100%" /> </td> <td width="50%" align="center"> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=qDawn&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=C9D1D9" alt="Top Languages" width="100%" /> </td> </tr> </table> </div> <br>
 <br>
 
 <a href="https://linkedin.com/in/ling-guo-swe">LinkedIn</a>
